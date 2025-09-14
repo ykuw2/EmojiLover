@@ -37,7 +37,7 @@ struct ContentView: View {
                 // without the "$", it would just be passing the value, not the ability to update
                 .pickerStyle(.segmented)
             }
-            .navigationTitle("EmojiLovers")
+            .navigationTitle("EmojiLover")
             .padding()
         }
     }
